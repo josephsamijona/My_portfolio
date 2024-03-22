@@ -96,8 +96,7 @@ Vous avez un projet intéressant ? N'hésitez pas à me contacter !
 
 - [LinkedIn](https://www.linkedin.com/in/samuel-j-845011245/)
 - [GitHub](https://github.com/josephsamueljonathan)
-- [Portfolio en Ligne](#)
-Ce code est inspiré du portfolio de [Cal Shawn](https://calshawn.netlify.app/). N'hésitez pas à regarder son travail sur [GitHub](https://github.com/MuneneCalvin/Responsive-portfolio-website).
+- Ce code est inspiré du portfolio de [Cal Shawn](https://calshawn.netlify.app/). N'hésitez pas à regarder son travail sur [GitHub](https://github.com/MuneneCalvin/Responsive-portfolio-website).
 ---
 
 ### 📝 Licence

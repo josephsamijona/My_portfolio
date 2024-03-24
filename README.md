@@ -1,35 +1,108 @@
-# Application de Gestion des Étudiants de l'École 🎓
+### Portfolio de Joseph Samuel Jonathan 💻
 
-![Création de la Base de Données](0.jpg)
-![Lancement du Serveur](1.jpg)
-![Liste des Étudiants](2.jpg)
+Bienvenue sur le portfolio de Joseph Samuel Jonathan ! Ce portfolio présente mes compétences en génie informatique, mes projets récents, mon parcours éducatif, et bien plus encore. 🚀
 
-## Description
-Cette application web, développée avec Django et Bootstrap, permet de gérer les informations des étudiants d'une école. Elle offre une interface conviviale pour afficher, ajouter, mettre à jour et supprimer les données des étudiants dans une base de données MySQL.
+---
 
-## Comment J'ai Construit l'Application 🛠️
+### 🌟 À Propos
 
-### Étapes de Construction
+Je suis un passionné de technologie, d'art et de musique, étudiant en génie informatique. Mon objectif est de développer des solutions innovantes et efficaces pour répondre aux besoins uniques de mes clients. Avec une solide expérience dans le développement de projets et de logiciels, je suis prêt à relever de nouveaux défis passionnants. 
 
-1. **Création de la Base de Données :** J'ai tout d'abord créé la base de données MySQL nommée "ecole" avec la table "etudiants" contenant les champs requis (id, prénom, nom, pays, adresse, téléphone). J'ai utilisé MySQL Workbench pour concevoir la structure de la base de données.
-   
-   ![Création de la Base de Données](0.jpg)
+### 🎓 Parcours Éducatif
 
-2. **Création du Projet Django :** Ensuite, j'ai démarré un nouveau projet Django appelé "ecoles" et créé une application "ecole" à l'intérieur.
+- **Étude Classique**  
+  - Collège Catts Pressoir, Port-au-Prince
+  - Septembre 2013 - Septembre 2020
+  - Parcours académique exceptionnel, démontrant un engagement constant envers l'excellence académique.
 
-3. **Définition du Modèle Django :** Dans le modèle Django, j'ai défini le modèle Etudiant avec les champs correspondants.
+- **Génie Informatique**
+  - ISTEAH: Institut des Sciences, des Technologies et des Etudes Avancées d'Haïti, Delmas 60
+  - Septembre 2021 - Septembre 2026
+  - Formation approfondie en architecture, algorithmes, et langages de programmation.
 
-4. **Création des Templates HTML :** J'ai créé le fichier `index.html` pour afficher la liste des étudiants avec Bootstrap pour le style.
+### 💼 Expérience Professionnelle
 
-   ![Liste des Étudiants](2.jpg)
+- **Professeur de Technologie**
+  - Collège Catts Pressoir, Port-au-Prince
+  - Mars 2022 - Juillet 2023
+  - Enseignement de la technologie et de la robotique, stimulant l'intérêt des élèves pour les sciences et la technologie.
 
-5. **Connexion à la Base de Données :** J'ai configuré les paramètres de connexion à la base de données MySQL dans les paramètres Django.
+---
 
-6. **Définition des Vues :** J'ai créé des vues pour afficher, ajouter, mettre à jour et supprimer les étudiants.
+### 🚀 Compétences
 
-7. **Intégration du Navbar personnalisé :** Pour une expérience utilisateur adaptée à une plateforme d'école, j'ai créé un Navbar personnalisé avec les options de navigation pertinentes.
+#### Développement d'Applications Mobiles
+- Flutter
+- Java (Android)
+- Swift (iOS)
+- Dart
 
-   ```html
-   <div class="container">
-       <div class="display-4 text-center">Informations sur les étudiants</div>
-   </div>
+#### Développement Web
+- HTML
+- CSS
+- JavaScript
+- Python (Django, Flask)
+- React.js
+- Vue.js
+- Bootstrap
+
+#### Développement d'Applications de Bureau
+- Java (Swing, JavaFX)
+- C# (Windows Forms, WPF)
+- Python (Tkinter)
+- Electron.js
+
+#### Intelligence Artificielle (AI)
+- TensorFlow
+- PyTorch
+- Scikit-Learn
+- OpenCV
+
+---
+
+### 🛠️ Projets
+
+1. **Busko**  
+   Une application de gestion de base de données pour les entreprises, gérant les ressources humaines et matérielles.
+   ![Busko](assets/img/Busko-profil_logo.jpg)
+   [Voir Projet](#)
+
+2. **Busko Harvest**  
+   Une application intelligente de gestion de culture pour une agriculture verte et durable.
+   ![Busko Harvest](assets/img/dabelo_design_430921114_1381371768943795_3159925210726361377_n.jpeg)
+ 
+3. **ArmaWatch**  
+   Une application de surveillance pour la détection d'armes à feu et d'enlèvements.
+   ![ArmaWatch](assets/img/armawatch_logo_v1.png)
+ 
+
+4. **SpeakSight**  
+   Des lunettes intelligentes pour les personnes sourdes.
+   ![SpeakSight](assets/img/WhatsApp_Image_2023-09-07_at_11.12.13_2a9a3fb8-transformed.jpeg)
+   [Voir Projet](#)
+
+---
+
+### 📫 Contact
+
+Vous avez un projet intéressant ? N'hésitez pas à me contacter !
+
+- **Email** : [josephsamueljonathan@gmail.com](#)
+- **Téléphone** : [+(509) 47520306](#)
+
+---
+
+### 🌐 Liens Utiles
+
+- [LinkedIn](https://www.linkedin.com/in/samuel-j-845011245/)
+- [GitHub](https://github.com/josephsamueljonathan)
+- Ce code est inspiré du portfolio de [Cal Shawn](https://calshawn.netlify.app/). N'hésitez pas à regarder son travail sur [GitHub](https://github.com/MuneneCalvin/Responsive-portfolio-website).
+---
+
+### 📝 Licence
+
+Ce portfolio est sous licence 🍷 2024 Joseph Samuel Jonathan. Copyleft🗿(GIGACHAD). 👀AUCUN droits réservés. Imaginez une légende selon laquelle j'ai trop mis de copyright et maintenant j'ai des problèmes pour me souvenir de tous les endroits où je l'ai mis... 🤣
+
+---
+
+N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou opportunité intéressante ! ✨
